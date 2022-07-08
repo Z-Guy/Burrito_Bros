@@ -15,10 +15,12 @@ The flow goes like this:
   6) Customer goes to the register to pay for the food
     - if there is already someone at the register, Customer waits till they leave
    7) Customer leaves store after paying
-   
+  
+  
 My first test results are shown below:
 ![image](https://user-images.githubusercontent.com/49008866/177901852-aa8ca76e-101a-4cc8-a5de-24c9dcaa36a7.png)
 ![image](https://user-images.githubusercontent.com/49008866/177901862-1c5b2028-805f-4e10-95fe-c679a7d92f8a.png)
+
 
 My second test results are shown below:
 ![image](https://user-images.githubusercontent.com/49008866/177901887-906179ee-0bd1-47b6-bcca-31fb22272e3f.png)
