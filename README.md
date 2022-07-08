@@ -3,6 +3,7 @@ This is a simualtor that I made to resmble a restaurant with customers, servers,
 of threads and how to make progrmas that mangage resources with semaphores.
 
 ![image](https://user-images.githubusercontent.com/49008866/177898033-8723401d-4e7c-4962-9933-17a7f10e0ed6.png)
+
 There are two threads: the Customer and the Server. The restaurant space has a maximum capacity of 15 Customers at a time. There are three Servers that can work only at their repective counters, can only serve one Customer at a time, and fufill three orders at one time. A Customer can have between 1 to 20 orders and they are at random. The Customers, once inside, go to a waiting area before they can go to a counter. The waiting area is an array so the customer with the least number of orders gets served first. Once all of their orders are fufilled, the Customers go to the register to pay for their food and leave the establishment. Both the Server and the register take a set amont of time to complete their tasks.
 The flow goes like this:
   1) Customer enters restaurant
