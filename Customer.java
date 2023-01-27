@@ -1,5 +1,3 @@
-import java.util.concurrent.*;
-
 public class Customer{
     private int cID;                    //customer IDs
     private int orderSize;              //number of burritos per customer
